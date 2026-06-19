@@ -1,4 +1,4 @@
-# Hi 👋, I'm N. V. Sai Praveen
+ N. V. Sai Praveen
 
 ### Computer Science Student | Full Stack Developer | Java Programmer
 
