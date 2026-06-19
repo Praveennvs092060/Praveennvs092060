@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm N. V. Sai Praveen
 
-<!--
-**Praveennvs092060/Praveennvs092060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Full Stack Developer | Java Programmer
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Spring Boot
+- React JS
+- MySQL
+- Data Structures & Algorithms
+
+💻 Skills
+- Java
+- JavaScript
+- HTML
+- CSS
+- React JS
+- Spring Boot
+- MySQL
+- Git & GitHub
+
+🚀 Projects
+- Ticket Booking Application
+- Project Management Portal
+- Automatic Drip Irrigation System
+
+📫 Contact
+- Email: nvspraveen46@gmail.com
+- LinkedIn: linkedin.com/in/nvsaipraveen
+
+⭐ Open to Internships and Placement Opportunities
