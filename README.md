@@ -3,7 +3,7 @@
 <!--             PROFILE HEADER                -->
 <!-- ========================================= -->
 
-<h1 align="center">Hi, I'm N. V. Sai Praveen 👋</h1>
+<h1 align="center">Hi, I'm Nukaraju Venkata Sai Praveen👋</h1>
 
 <h3 align="center">
   Computer Science Engineering Student | Full Stack Developer | Salesforce Developer
