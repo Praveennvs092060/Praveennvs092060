@@ -188,9 +188,19 @@ I'm a Computer Science Engineering student passionate about software development
 
 ## 🐍 Contribution Activity
 
+
+<!-- CONTRIBUTION SNAKE -->
+
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Praveennvs092060/Praveennvs092060/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+  <img
+    src="https://raw.githubusercontent.com/Praveennvs092060/Praveennvs092060/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake Animation"
+  />
 </p>
+
+<!-- END CONTRIBUTION SNAKE -->
 
 ---
 
