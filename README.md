@@ -1,74 +1,142 @@
-<h1 align="center">Hi there, I'm N. V. Sai Praveen 👋</h1>
+# 👋 Hi, I'm N. V. Sai Praveen
 
-<h3 align="center">Computer Science Student · Full Stack Developer · Java Programmer</h3>
+\<h3 align="center">Computer Science Engineering Student | Full Stack Developer | Java & Salesforce Developer\</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Open+to+Internships+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+\<p align="center">
+&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Passionate+Software+Developer;Java+%7C+Spring+Boot+%7C+React+JS;Salesforce+Developer+%7C+Apex+%7C+SOQL;Building+Practical+Real-World+Projects;Always+Learning+and+Growing](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=19\&pause=1000\&color=2F80ED\&center=true\&vCenter=true\&width=650\&lines=Passionate+Software+Developer;Java+%7C+Spring+Boot+%7C+React+JS;Salesforce+Developer+%7C+Apex+%7C+SOQL;Building+Practical+Real-World+Projects;Always+Learning+and+Growing)" alt="Typing SVG" />
+\</p>
 
-<p align="center">
-  <a href="mailto:nvspraveen46@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/nvsaipraveen">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🎓 About Me
-
-- 🎓 B.Tech Computer Science Engineering student
-- 💻 Passionate about building full stack web applications and solving DSA problems
-- 🌱 Currently learning **Spring Boot**, **React JS**, **MySQL**, and **Data Structures & Algorithms**
-- ⭐ Actively looking for **Internship** and **Placement** opportunities
-- 📫 Reach me at **nvspraveen46@gmail.com**
+\<p align="center">
+&#x20; \<a href="mailto\:nvspraveen46\@gmail.com">
+&#x20;   \<img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" />
+&#x20; \</a>
+&#x20; \<a href="[https://linkedin.com/in/nvsaipraveen](https://linkedin.com/in/nvsaipraveen)">
+&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />
+&#x20; \</a>
+&#x20; \<a href="[https://github.com/Praveennvs092060](https://github.com/Praveennvs092060)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
+&#x20; \</a>
+\</p>
 
 ---
 
-### 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
+I'm a Computer Science Engineering student passionate about software development, problem-solving, and building technology-driven solutions.
 
-**Frameworks & Tools**
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</p>
+- 🎓 Pursuing B.Tech in Computer Science and Engineering (2023–2027).
+- 💻 Interested in Full Stack Development and Salesforce Development.
+- ☕ Working with Java, Spring Boot, React JS, and MySQL.
+- ☁️ Exploring Salesforce technologies including Apex, SOQL, and Flows.
+- 🧠 Practicing Data Structures and Algorithms to strengthen problem-solving skills.
+- 🚀 Interested in developing scalable applications and real-world software solutions.
+- 🎯 Open to Internship and Full-Time Opportunities.
 
 ---
 
-### 🚀 Featured Projects
+## 🛠️ Technical Skills
 
-- **🎟️ Ticket Booking Application** — A web app for browsing and booking tickets with a streamlined user flow.
-- **📋 Project Management Portal** — A platform to plan, assign, and track project tasks and progress.
-- **🌱 Automatic Drip Irrigation System** — An IoT-based embedded system that automates plant watering based on soil moisture.
+### Programming Languages
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=java,python,c,js](https://skillicons.dev/icons?i=java,python,c,js)" />
+\</p>
+
+### Frontend Development
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,react](https://skillicons.dev/icons?i=html,css,react)" />
+\</p>
+
+### Backend Development & Database
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=spring,mysql](https://skillicons.dev/icons?i=spring,mysql)" />
+\</p>
+
+### Salesforce Development
+
+\<p>   \<img src="[https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge\&logo=salesforce\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white](https://img.shields.io/badge/Apex-1798C1?style=for-the-badge\&logo=salesforce\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/SOQL-0176D3?style=for-the-badge&logo=salesforce&logoColor=white](https://img.shields.io/badge/SOQL-0176D3?style=for-the-badge\&logo=salesforce\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Flows-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white](https://img.shields.io/badge/Flows-00A1E0?style=for-the-badge\&logo=salesforce\&logoColor=white)" /> \</p>
+
+### Tools & Technologies
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman](https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman)" />
+\</p>
+
+### Core Concepts
+
+- Object-Oriented Programming (OOP)
+- Data Structures and Algorithms (DSA)
+- Database Management Systems (DBMS)
+- Operating Systems
+- REST API Development and Testing
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveennvs092060&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveennvs092060&layout=compact&theme=default" alt="Top Languages" height="165" />
-</p>
+### 🎟️ TechFest Ticket Booking System
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveennvs092060&theme=default" alt="GitHub Streak" />
-</p>
+**Tech Stack:** React JS | Spring Boot | MySQL | REST APIs
+
+- Developed a web-based ticket booking application.
+- Implemented separate student and administrator portals.
+- Integrated ticket generation with QR codes and PDF support.
+
+### 📋 Leave Request Management System
+
+**Tech Stack:** Salesforce | Apex | SOQL | Flows | REST API
+
+- Developed a Salesforce-based leave management application.
+- Implemented leave request processing and automated status management.
+- Created validation rules, Apex classes, and test classes.
+- Integrated REST API functionality for external application testing.
+
+### 🎓 Student Project Management System
+
+**Tech Stack:** Salesforce | Apex | SOQL | Flows | Reports
+
+- Designed a platform for managing student projects and assignments.
+- Implemented faculty supervision and project tracking.
+- Used Salesforce automation and reports to organize project information.
+
+### 🌱 Automatic Drip Irrigation System
+
+**Tech Stack:** IoT | Embedded Systems | Sensors
+
+- Developed an automated plant-watering solution.
+- Used soil moisture monitoring to support efficient water management.
 
 ---
 
-<p align="center">
-  <em>⭐ Open to Internship and Placement Opportunities — let's connect!</em>
-</p>
+## 📊 GitHub Statistics
+
+\<p align="center">
+&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=Praveennvs092060&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=Praveennvs092060\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)" height="165" />
+&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Praveennvs092060&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveennvs092060\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165" />
+\</p>
+
+\<p align="center">
+&#x20; \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=Praveennvs092060&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Praveennvs092060\&theme=tokyonight\&hide_border=true)" />
+\</p>
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🏅 Solved 100+ coding problems.
+- ⭐ NPTEL Human-Computer Interaction – Top 5%.
+- 📜 Certified in Python Programming.
+- 📜 Certified in Web Development.
+- ☁️ AWS Cloud Basics Certification.
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in connecting with developers, collaborating on projects, and exploring new opportunities.
+
+\<p align="center">   \<a href="mailto\:nvspraveen46\@gmail.com">     \<img src="[https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" />   \</a>   \<a href="[https://linkedin.com/in/nvsaipraveen](https://linkedin.com/in/nvsaipraveen)">     \<img src="[https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />   \</a> \</p>
+
+\<p align="center">   \<b>⭐ Thanks for visiting my GitHub profile! Let's build something amazing together.\</b> \</p>
