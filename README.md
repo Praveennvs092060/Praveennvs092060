@@ -1,76 +1,59 @@
 # 👋 Hi, I'm N. V. Sai Praveen
 
-\<h3 align="center">Computer Science Engineering Student | Full Stack Developer | Java & Salesforce Developer\</h3>
+\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+JS;Salesforce+Developer+%7C+Apex+%7C+SOQL;Building+Real-World+Applications;Always+Learning+Something+New](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=25\&duration=2500\&pause=800\&color=58A6FF\&center=true\&vCenter=true\&width=800\&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+JS;Salesforce+Developer+%7C+Apex+%7C+SOQL;Building+Real-World+Applications;Always+Learning+Something+New)!" /> \</p>
 
-\<p align="center">
-&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Passionate+Software+Developer;Java+%7C+Spring+Boot+%7C+React+JS;Salesforce+Developer+%7C+Apex+%7C+SOQL;Building+Practical+Real-World+Projects;Always+Learning+and+Growing](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=19\&pause=1000\&color=2F80ED\&center=true\&vCenter=true\&width=650\&lines=Passionate+Software+Developer;Java+%7C+Spring+Boot+%7C+React+JS;Salesforce+Developer+%7C+Apex+%7C+SOQL;Building+Practical+Real-World+Projects;Always+Learning+and+Growing)" alt="Typing SVG" />
-\</p>
+\<p align="center">   \<img src="[https://komarev.com/ghpvc/?username=Praveennvs092060&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge](https://komarev.com/ghpvc/?username=Praveennvs092060\&label=PROFILE+VIEWS\&color=blueviolet\&style=for-the-badge)" />   \<img src="[https://img.shields.io/github/followers/Praveennvs092060?label=FOLLOWERS&style=for-the-badge&color=blue](https://img.shields.io/github/followers/Praveennvs092060?label=FOLLOWERS\&style=for-the-badge\&color=blue)" /> \</p>
 
-\<p align="center">
-&#x20; \<a href="mailto\:nvspraveen46\@gmail.com">
-&#x20;   \<img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" />
-&#x20; \</a>
-&#x20; \<a href="[https://linkedin.com/in/nvsaipraveen](https://linkedin.com/in/nvsaipraveen)">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/Praveennvs092060](https://github.com/Praveennvs092060)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
-&#x20; \</a>
-\</p>
+\<p align="center">   \<a href="mailto\:nvspraveen46\@gmail.com">     \<img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />   \</a>   \<a href="[https://linkedin.com/in/nvsaipraveen](https://linkedin.com/in/nvsaipraveen)">     \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />   \</a>   \<a href="[https://github.com/Praveennvs092060](https://github.com/Praveennvs092060)">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />   \</a> \</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science Engineering student passionate about software development, problem-solving, and building technology-driven solutions.
+\<img align="right" alt="Coding Animation" width="280" src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)" />
 
-- 🎓 Pursuing B.Tech in Computer Science and Engineering (2023–2027).
-- 💻 Interested in Full Stack Development and Salesforce Development.
-- ☕ Working with Java, Spring Boot, React JS, and MySQL.
-- ☁️ Exploring Salesforce technologies including Apex, SOQL, and Flows.
-- 🧠 Practicing Data Structures and Algorithms to strengthen problem-solving skills.
-- 🚀 Interested in developing scalable applications and real-world software solutions.
-- 🎯 Open to Internship and Full-Time Opportunities.
+I'm a Computer Science Engineering student passionate about software development and building practical technology solutions.
+
+- 🎓 B.Tech CSE (2023–2027)
+- 💻 Full Stack Web Development
+- ☕ Java & Spring Boot Development
+- ☁️ Salesforce Development
+- 🧠 Data Structures & Algorithms
+- 🚀 Building real-world applications
+- 🎯 Open to internship and placement opportunities
+
+\<br clear="right"/>
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack & Tools
 
 ### Programming Languages
 
-\<p>
+\<p align="center">
 &#x20; \<img src="[https://skillicons.dev/icons?i=java,python,c,js](https://skillicons.dev/icons?i=java,python,c,js)" />
 \</p>
 
-### Frontend Development
+### Frontend & Backend
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,react](https://skillicons.dev/icons?i=html,css,react)" />
+\<p align="center">
+&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,react,spring](https://skillicons.dev/icons?i=html,css,react,spring)" />
 \</p>
 
-### Backend Development & Database
+### Database & Developer Tools
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=spring,mysql](https://skillicons.dev/icons?i=spring,mysql)" />
+\<p align="center">
+&#x20; \<img src="[https://skillicons.dev/icons?i=mysql,git,github,vscode,eclipse,postman](https://skillicons.dev/icons?i=mysql,git,github,vscode,eclipse,postman)" />
 \</p>
 
-### Salesforce Development
+### Salesforce Ecosystem
 
-\<p>   \<img src="[https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge\&logo=salesforce\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white](https://img.shields.io/badge/Apex-1798C1?style=for-the-badge\&logo=salesforce\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/SOQL-0176D3?style=for-the-badge&logo=salesforce&logoColor=white](https://img.shields.io/badge/SOQL-0176D3?style=for-the-badge\&logo=salesforce\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Flows-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white](https://img.shields.io/badge/Flows-00A1E0?style=for-the-badge\&logo=salesforce\&logoColor=white)" /> \</p>
-
-### Tools & Technologies
-
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman](https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman)" />
+\<p align="center">
+&#x20; \<img src="[https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge\&logo=salesforce\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white](https://img.shields.io/badge/Apex-1798C1?style=for-the-badge\&logo=salesforce\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/SOQL-6C5CE7?style=for-the-badge&logo=salesforce&logoColor=white](https://img.shields.io/badge/SOQL-6C5CE7?style=for-the-badge\&logo=salesforce\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Flows-16A085?style=for-the-badge&logo=salesforce&logoColor=white](https://img.shields.io/badge/Flows-16A085?style=for-the-badge\&logo=salesforce\&logoColor=white)" />
 \</p>
-
-### Core Concepts
-
-- Object-Oriented Programming (OOP)
-- Data Structures and Algorithms (DSA)
-- Database Management Systems (DBMS)
-- Operating Systems
-- REST API Development and Testing
 
 ---
 
@@ -78,65 +61,78 @@ I'm a Computer Science Engineering student passionate about software development
 
 ### 🎟️ TechFest Ticket Booking System
 
-**Tech Stack:** React JS | Spring Boot | MySQL | REST APIs
+`React.js` `Spring Boot` `MySQL` `REST APIs`
 
-- Developed a web-based ticket booking application.
-- Implemented separate student and administrator portals.
-- Integrated ticket generation with QR codes and PDF support.
+- Full-stack ticket booking application.
+- Student and administrator portals.
+- QR code and PDF ticket generation.
 
 ### 📋 Leave Request Management System
 
-**Tech Stack:** Salesforce | Apex | SOQL | Flows | REST API
+`Salesforce` `Apex` `SOQL` `Flows` `REST API`
 
-- Developed a Salesforce-based leave management application.
-- Implemented leave request processing and automated status management.
-- Created validation rules, Apex classes, and test classes.
-- Integrated REST API functionality for external application testing.
+- Salesforce-based leave management application.
+- Automated status updates and validation rules.
+- Apex classes, test classes and REST API integration.
 
 ### 🎓 Student Project Management System
 
-**Tech Stack:** Salesforce | Apex | SOQL | Flows | Reports
+`Salesforce` `Apex` `SOQL` `Reports`
 
-- Designed a platform for managing student projects and assignments.
-- Implemented faculty supervision and project tracking.
-- Used Salesforce automation and reports to organize project information.
+- Student project and assignment management.
+- Faculty supervision and project tracking.
+- Salesforce automation and reporting.
 
 ### 🌱 Automatic Drip Irrigation System
 
-**Tech Stack:** IoT | Embedded Systems | Sensors
+`IoT` `Embedded Systems` `Sensors`
 
-- Developed an automated plant-watering solution.
-- Used soil moisture monitoring to support efficient water management.
+- Automated irrigation based on soil moisture monitoring.
+- Designed to support efficient water usage.
 
 ---
 
 ## 📊 GitHub Statistics
 
 \<p align="center">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=Praveennvs092060&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=Praveennvs092060\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)" height="165" />
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Praveennvs092060&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveennvs092060\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165" />
+&#x20; \<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=Praveennvs092060&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=Praveennvs092060\&show_icons=true\&theme=tokyonight\&hide_border=true)" />
+&#x20; \<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Praveennvs092060&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveennvs092060\&layout=compact\&theme=tokyonight\&hide_border=true)" />
 \</p>
 
 \<p align="center">
-&#x20; \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=Praveennvs092060&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Praveennvs092060\&theme=tokyonight\&hide_border=true)" />
+&#x20; \<img width="75%" src="[https://github-readme-streak-stats.herokuapp.com/?user=Praveennvs092060&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Praveennvs092060\&theme=tokyonight\&hide_border=true)" />
+\</p>
+
+---
+
+## 🐍 Contribution Activity
+
+\<p align="center">
+&#x20; \<img src="[https://raw.githubusercontent.com/Praveennvs092060/Praveennvs092060/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/Praveennvs092060/Praveennvs092060/output/github-contribution-grid-snake-dark.svg)" alt="GitHub Contribution Snake Animation" />
 \</p>
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-- 🏅 Solved 100+ coding problems.
-- ⭐ NPTEL Human-Computer Interaction – Top 5%.
-- 📜 Certified in Python Programming.
-- 📜 Certified in Web Development.
+\<p align="center">
+&#x20; \<img src="[https://img.shields.io/badge/100%2B-Coding_Problems-2EA44F?style=for-the-badge](https://img.shields.io/badge/100%2B-Coding_Problems-2EA44F?style=for-the-badge)" />
+&#x20; \<img src="[https://img.shields.io/badge/NPTEL-Top_5%25-FF9800?style=for-the-badge](https://img.shields.io/badge/NPTEL-Top_5%25-FF9800?style=for-the-badge)" />
+\</p>
+
+- 🥇 NPTEL Human-Computer Interaction – 98/100 (Top 5%).
+- 📜 Python Programming Certification.
+- 🌐 Web Development Certification.
 - ☁️ AWS Cloud Basics Certification.
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Connect With Me
 
-I'm always interested in connecting with developers, collaborating on projects, and exploring new opportunities.
+\<p align="center">   \<a href="mailto\:nvspraveen46\@gmail.com">     \<img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />   \</a>   \<a href="[https://linkedin.com/in/nvsaipraveen](https://linkedin.com/in/nvsaipraveen)">     \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />   \</a>   \<a href="[https://github.com/Praveennvs092060](https://github.com/Praveennvs092060)">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />   \</a> \</p>
 
-\<p align="center">   \<a href="mailto\:nvspraveen46\@gmail.com">     \<img src="[https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" />   \</a>   \<a href="[https://linkedin.com/in/nvsaipraveen](https://linkedin.com/in/nvsaipraveen)">     \<img src="[https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />   \</a> \</p>
+\<p align="center">   \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:2F80ED&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:667EEA,50:764BA2,100:2F80ED\&height=120\&section=footer)" width="100%" /> \</p>
 
-\<p align="center">   \<b>⭐ Thanks for visiting my GitHub profile! Let's build something amazing together.\</b> \</p>
+\<p align="center">
+&#x20; \<b>✨ Code. Create. Innovate. Repeat. ✨\</b>
+\</p>
