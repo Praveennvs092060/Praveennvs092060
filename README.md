@@ -55,13 +55,6 @@ I'm a Computer Science Engineering student passionate about software development
 
 ---
 
----
-
----
-
----
-
----
 <!-- ========================================= -->
 <!--        Technical Skills                   -->
 <!-- ========================================= -->
