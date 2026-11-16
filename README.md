@@ -59,64 +59,62 @@ I'm a Computer Science Engineering student passionate about software development
 
 ---
 
-<!-- ========================================= -->
-<!--              TECHNICAL SKILLS             -->
-<!-- ========================================= -->
+---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### 💻 Programming Languages
+### Programming Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-333333?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-333333?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
 </p>
 
-### 🎨 Frontend Development
+### Frontend Development
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-333333?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-333333?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-333333?style=flat-square&logo=react&logoColor=white" alt="React" />
 </p>
 
-### ⚙️ Backend Development & Database
+### Backend Development & Database
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Spring_Boot-333333?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/MySQL-333333?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-### ☁️ Salesforce Development
+### Salesforce Development
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
-  <img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex" />
-  <img src="https://img.shields.io/badge/SOQL-6C5CE7?style=for-the-badge&logo=salesforce&logoColor=white" alt="SOQL" />
-  <img src="https://img.shields.io/badge/Flows-16A085?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Flows" />
+  <img src="https://img.shields.io/badge/Salesforce-333333?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce" />
+  <img src="https://img.shields.io/badge/Apex-333333?style=flat-square&logo=salesforce&logoColor=white" alt="Apex" />
+  <img src="https://img.shields.io/badge/SOQL-333333?style=flat-square&logo=salesforce&logoColor=white" alt="SOQL" />
+  <img src="https://img.shields.io/badge/Flows-333333?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce Flows" />
 </p>
 
-### 🔧 Tools & Platforms
+### Tools & Platforms
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Git-333333?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-333333?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Eclipse-333333?style=flat-square&logo=eclipseide&logoColor=white" alt="Eclipse" />
+  <img src="https://img.shields.io/badge/Postman-333333?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
-### 📚 Core Computer Science
+### Core Computer Science
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OOP-007ACC?style=for-the-badge" alt="OOP" />
-  <img src="https://img.shields.io/badge/DSA-6C5CE7?style=for-the-badge" alt="DSA" />
-  <img src="https://img.shields.io/badge/DBMS-16A085?style=for-the-badge" alt="DBMS" />
-  <img src="https://img.shields.io/badge/Operating_Systems-E67E22?style=for-the-badge" alt="Operating Systems" />
-  <img src="https://img.shields.io/badge/REST_APIs-2EA44F?style=for-the-badge" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/OAuth_2.0-7952B3?style=for-the-badge" alt="OAuth 2.0" />
+  <img src="https://img.shields.io/badge/OOP-333333?style=flat-square" alt="OOP" />
+  <img src="https://img.shields.io/badge/DSA-333333?style=flat-square" alt="DSA" />
+  <img src="https://img.shields.io/badge/DBMS-333333?style=flat-square" alt="DBMS" />
+  <img src="https://img.shields.io/badge/Operating_Systems-333333?style=flat-square" alt="Operating Systems" />
+  <img src="https://img.shields.io/badge/REST_APIs-333333?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/OAuth_2.0-333333?style=flat-square" alt="OAuth 2.0" />
 </p>
 
 <!-- ========================================= -->
