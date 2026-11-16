@@ -55,6 +55,8 @@ I'm a Computer Science Engineering student passionate about software development
 
 ---
 
+---
+
 <!-- ========================================= -->
 <!--              TECHNICAL SKILLS             -->
 <!-- ========================================= -->
@@ -97,15 +99,13 @@ I'm a Computer Science Engineering student passionate about software development
 ### 📚 Core Computer Science
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OOP-007ACC?style=flat-square" />
-  <img src="https://img.shields.io/badge/DSA-6C5CE7?style=flat-square" />
-  <img src="https://img.shields.io/badge/DBMS-16A085?style=flat-square" />
-  <img src="https://img.shields.io/badge/Operating_Systems-E67E22?style=flat-square" />
-  <img src="https://img.shields.io/badge/REST_APIs-2EA44F?style=flat-square" />
-  <img src="https://img.shields.io/badge/OAuth_2.0-7952B3?style=flat-square" />
+  <img src="https://img.shields.io/badge/OOP-007ACC?style=for-the-badge" alt="OOP" />
+  <img src="https://img.shields.io/badge/DSA-6C5CE7?style=for-the-badge" alt="DSA" />
+  <img src="https://img.shields.io/badge/DBMS-16A085?style=for-the-badge" alt="DBMS" />
+  <img src="https://img.shields.io/badge/Operating_Systems-E67E22?style=for-the-badge" alt="Operating Systems" />
+  <img src="https://img.shields.io/badge/REST_APIs-2EA44F?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/OAuth_2.0-7952B3?style=for-the-badge" alt="OAuth 2.0" />
 </p>
-
----
 
 <!-- ========================================= -->
 <!--                PROJECTS                   -->
